@@ -1,0 +1,3300 @@
+{
+    "cerveza" : [
+        {
+            "marca": "colonia",
+            "precio": 160,
+            "coloracion": "clara",
+            "loc": [23.08565330505371, -82.42872619628906],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto1.jpg",
+            "pais":"Brasil"
+
+        },
+        {
+            "marca": "mahou",
+            "precio": 150,
+            "coloracion": "clara",
+            "loc": [23.070594787597656, -82.4329605102539],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto3.jpg",
+            "pais":"Espana"
+        },
+        {
+            "marca": "martens",
+            "precio": 150,
+            "coloracion": "clara",
+            "loc": [23.070594787597656, -82.4329605102539],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto3.jpg",
+            "pais":"Belgica"
+        },
+        {
+            "marca": "presidente",
+            "precio": 130,
+            "coloracion": "clara",
+            "loc": [23.070594787597656, -82.4329605102539],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto3.jpg",
+            "pais":"Republica Dominicana"
+        },
+        {
+            "marca":"holland",
+            "precio":165,
+            "coloracion": "clara",
+            "loc":[23.070594787597656, -82.4329605102539],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto5.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "amstel",
+            "precio": 180,
+            "coloracion": "clara",
+            "loc": [23.086097717285156, -82.42720794677734],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto7.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "holland",
+            "precio": 180,
+            "coloracion": "clara",
+            "loc": [23.086097717285156, -82.42720794677734],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto7.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "mahou",
+            "precio": 180,
+            "coloracion": "clara",
+            "loc": [23.086097717285156, -82.42720794677734],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto7.jpg",
+            "pais":"Espana"
+        },
+        {
+            "marca":"germania",
+            "precio":165,
+            "coloracion": "clara",
+            "loc":[23.086097717285156, -82.42720794677734],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto9.jpg",
+            "pais":"Polonia"
+        },
+        {
+            "marca": "martens",
+            "precio": 150,
+            "coloracion": "clara",
+            "loc": [23.089881896972656, -82.42431640625],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto11.jpg",
+            "pais":"Belgica"
+        },
+        {
+            "marca": "mahou",
+            "precio": 150,
+            "coloracion": "clara",
+            "loc": [23.089881896972656, -82.42431640625],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto11.jpg",
+            "pais":"Espana"
+        },
+        {
+            "marca": "windmill",
+            "precio": 170,
+            "coloracion": "clara",
+            "loc": [23.089881896972656, -82.42431640625],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto12.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "bavaria",
+            "precio": 170,
+            "coloracion": "clara",
+            "loc": [23.089881896972656, -82.42431640625],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto12.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "covey",
+            "precio": 140,
+            "coloracion": "clara",
+            "loc": [23.077808380126953, -82.43482208251953],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto16.jpg",
+            "pais":"Espana"
+        },
+        {
+            "marca": "la salve",
+            "precio": 140,
+            "coloracion": "clara",
+            "loc": [23.077808380126953, -82.43482208251953],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto16.jpg",
+            "pais":"Espana"
+        },
+        {
+            "marca": "belga star",
+            "precio": 160,
+            "coloracion": "clara",
+            "loc": [23.077808380126953, -82.43482208251953],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto16.jpg",
+            "pais":"Belgica"
+        },
+        {
+            "marca": "cristal",
+            "precio": 250,
+            "coloracion": "clara",
+            "loc": [23.077808380126953, -82.43482208251953],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto16.jpg",
+            "pais":"Cuba"
+        },
+        {
+            "marca": "colonia",
+            "precio": 140,
+            "coloracion": "clara",
+            "loc": [23.077808380126953, -82.43482208251953],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto16.jpg",
+            "pais":"Brasil"
+        },
+        {
+            "marca": "mahou",
+            "precio": 150,
+            "coloracion": "clara",
+            "loc": [23.077808380126953, -82.43482208251953],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto16.jpg",
+            "pais":"Espana"
+        },
+        {
+            "marca": "bucanero",
+            "precio": 250,
+            "coloracion": "oscura",
+            "loc": [23.077808380126953, -82.43482208251953],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto16.jpg",
+            "pais":"Cuba"
+        },
+        {
+            "marca": "covey",
+            "precio": 140,
+            "coloracion": "clara",
+            "loc": [23.073787689208984, -82.43583679199219],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto29.jpg",
+            "pais":"Espana"
+        },
+        {
+            "marca": "mahou",
+            "precio": 140,
+            "coloracion": "clara",
+            "loc": [23.073787689208984, -82.43583679199219],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto29.jpg",
+            "pais":"Espana"
+        },
+        {
+            "marca": "presidente",
+            "precio": 130,
+            "coloracion": "clara",
+            "loc": [23.073787689208984, -82.43583679199219],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto29.jpg",
+            "pais":"Republica Dominicana"
+        },
+        {
+            "marca": "holland",
+            "precio": 180,
+            "coloracion": "clara",
+            "loc": [23.07573890686035, -82.43394470214844],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto34.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "belga star",
+            "precio": 180,
+            "coloracion": "clara",
+            "loc": [23.07573890686035, -82.43394470214844],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto34.jpg",
+            "pais":"Belgica"
+        },
+        {
+            "marca": "mahou",
+            "precio": 160,
+            "coloracion": "clara",
+            "loc": [23.07573890686035, -82.43394470214844],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto41.jpg",
+            "pais":"Espana"
+        },
+        {
+            "marca":"holland",
+            "precio":170,
+            "coloracion": "clara",
+            "loc":[23.07573890686035, -82.43394470214844],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto36.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca":"timber",
+            "precio":150,
+            "coloracion": "clara",
+            "loc":[23.07573890686035, -82.43394470214844],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto37.jpg",
+            "pais":"Brasil"
+        },
+        {
+            "marca": "mahou",
+            "precio": 150,
+            "coloracion": "clara",
+            "loc": [23.079649, -82.43047],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto47.jpg",
+            "pais":"Espana"
+        },
+        {
+            "marca": "presidente",
+            "precio": 150,
+            "coloracion": "clara",
+            "loc": [23.079649, -82.43047],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto47.jpg",
+            "pais":"Republica Dominicana"
+        },
+        {
+            "marca": "holland",
+            "precio": 160,
+            "coloracion": "clara",
+            "loc": [23.079649, -82.43047],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto47.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca":"cristal",
+            "precio":250,
+            "coloracion": "clara",
+            "loc":[23.079451, -82.433925],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto48.jpg",
+            "pais":"Cuba"
+        },
+        {
+            "marca":"holland",
+            "precio":170,
+            "coloracion": "clara",
+            "loc":[23.079451, -82.433925],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto48.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "mahou",
+            "precio": 170,
+            "coloracion": "clara",
+            "loc": [23.081110, -82.435132],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto49.jpg",
+            "pais":"Espana"
+        },
+        {
+            "marca": "cristal",
+            "precio": 200,
+            "coloracion": "clara",
+            "loc": [23.081110, -82.435132],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto49.jpg",
+            "pais":"Cuba"
+        },
+        {
+            "marca": "holland",
+            "precio": 150,
+            "coloracion": "clara",
+            "loc": [23.081110, -82.435132],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto49.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "mahou",
+            "precio": 150,
+            "coloracion": "clara",
+            "loc": [23.08129119873047, -82.43054962158203],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto50.jpg",
+            "pais":"Espana"
+        },
+        {
+            "marca": "presidente",
+            "precio": 170,
+            "coloracion": "clara",
+            "loc": [23.08129119873047, -82.43054962158203],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto50.jpg",
+            "pais":"Republica Dominicana"
+        },
+        {
+            "marca": "holland",
+            "precio": 150,
+            "coloracion": "clara",
+            "loc": [23.072017669677734, -82.43247985839844],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto52.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "stella artois",
+            "precio": 150,
+            "coloracion": "clara",
+            "loc": [23.072017669677734, -82.43247985839844],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto52.jpg",
+            "pais":"Belgica"
+        },
+        {
+            "marca": "holland",
+            "precio": 140,
+            "coloracion": "clara",
+            "loc": [23.072017669677734, -82.43247985839844],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto54.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "mahou",
+            "precio": 140,
+            "coloracion": "clara",
+            "loc": [23.072017669677734, -82.43247985839844],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto54.jpg",
+            "pais":"Espana"
+        },
+        {
+            "marca": "patronus",
+            "precio": 180,
+            "coloracion": "clara",
+            "loc": [23.072017669677734, -82.43247985839844],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto55.jpg",
+            "pais":"Alemania"
+        },
+        {
+            "marca": "holland",
+            "precio": 150,
+            "coloracion": "clara",
+            "loc": [23.079221725463867,-82.43346405029297],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto59.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "hollandia",
+            "precio": 160,
+            "coloracion": "clara",
+            "loc": [23.079221725463867,-82.43346405029297],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto59.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "stella artois",
+            "precio": 150,
+            "coloracion": "clara",
+            "loc": [23.079221725463867,-82.43346405029297],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto59.jpg",
+            "pais":"Belgica"
+        },
+        {
+            "marca": "holland",
+            "precio": 140,
+            "coloracion": "clara",
+            "loc": [23.078049, -82.438366],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto60.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "mahou",
+            "precio": 140,
+            "coloracion": "clara",
+            "loc": [23.078049, -82.438366],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto60.jpg",
+            "pais":"Espana"
+        },
+        {
+            "marca": "windmill",
+            "precio": 150,
+            "coloracion": "clara",
+            "loc": [23.078049, -82.438366],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto60.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "cristal",
+            "precio": 200,
+            "coloracion": "clara",
+            "loc": [23.083871841430664,-82.4378662109375],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto65.jpg",
+            "pais":"Cuba"
+        },
+        {
+            "marca": "holland",
+            "precio": 160,
+            "coloracion": "clara",
+            "loc": [23.083871841430664,-82.4378662109375],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto65.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "cristal",
+            "precio": 250,
+            "coloracion": "clara",
+            "loc": [23.083871841430664,-82.4378662109375],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto68.jpg",
+            "pais":"Cuba"
+        },
+        {
+            "marca": "holland",
+            "precio": 150,
+            "coloracion": "clara",
+            "loc": [23.083871841430664,-82.4378662109375],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto68.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "hollandia",
+            "precio": 150,
+            "coloracion": "clara",
+            "loc": [23.080697, -82.429484],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto76.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "faxe",
+            "precio": 180,
+            "coloracion": "oscura",
+            "loc": [23.07811164855957,-82.43346405029297],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto82.jpg",
+            "pais":"Dinamarca"
+        },
+        {
+            "marca": "holland",
+            "precio": 170,
+            "coloracion": "clara",
+            "loc": [23.07811164855957,-82.43346405029297],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto82.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "stella artois",
+            "precio": 160,
+            "coloracion": "clara",
+            "loc": [23.07811164855957,-82.43346405029297],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto82.jpg",
+            "pais":"Belgica"
+        },
+        {
+            "marca": "holland",
+            "precio": 160,
+            "coloracion": "clara",
+            "loc": [23.07811164855957,-82.43346405029297],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto84.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "holland",
+            "precio": 150,
+            "coloracion": "clara",
+            "loc": [23.07811164855957,-82.43346405029297],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto87.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "bavaria",
+            "precio": 150,
+            "coloracion": "clara",
+            "loc": [23.074302, -82.430261],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto87.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "stella artois",
+            "precio": 150,
+            "coloracion": "clara",
+            "loc": [23.07811164855957,-82.43346405029297],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto84.jpg",
+            "pais":"Belgica"
+        },
+        {
+            "marca": "hollandia",
+            "precio": 170,
+            "coloracion": "clara",
+            "loc": [23.07811164855957,-82.43346405029297],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto89.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "holland",
+            "precio": 170,
+            "coloracion": "clara",
+            "loc": [23.07811164855957,-82.43346405029297],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto89.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "hollandia",
+            "precio": 160,
+            "coloracion": "clara",
+            "loc": [23.07811164855957,-82.43346405029297],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto90.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "beer",
+            "precio": 160,
+            "coloracion": "clara",
+            "loc": [23.07811164855957,-82.43346405029297],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto91.jpg",
+            "pais":"Dinamarca"
+        },
+        {
+            "marca": "cristal",
+            "precio": 200,
+            "coloracion": "clara",
+            "loc": [23.070939, -82.430533],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto96.jpg",
+            "pais":"Cuba"
+        },
+        {
+            "marca": "hollandia",
+            "precio": 160,
+            "coloracion": "clara",
+            "loc": [23.070939, -82.430533],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto96.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "holland",
+            "precio": 160,
+            "coloracion": "clara",
+            "loc": [23.070939, -82.430533],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto96.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "stella artois",
+            "precio": 140,
+            "coloracion": "clara",
+            "loc": [23.071570,-82.432557],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto101.jpg",
+            "pais":"Belgica"
+        },
+        {
+            "marca": "bavaria",
+            "precio": 160,
+            "coloracion": "clara",
+            "loc": [23.071570,-82.432557],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto101.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "windmill",
+            "precio": 160,
+            "coloracion": "clara",
+            "loc": [23.071570,-82.432557],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto101.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "hollandia",
+            "precio": 160,
+            "coloracion": "clara",
+            "loc": [23.071570,-82.432557],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto101.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "cristal",
+            "precio": 200,
+            "coloracion": "clara",
+            "loc": [23.071570,-82.432557],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto101.jpg",
+            "pais":"Cuba"
+        },
+        {
+            "marca": "bucanero",
+            "precio": 200,
+            "coloracion": "oscura",
+            "loc": [23.071570,-82.432557],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto101.jpg",
+            "pais":"Cuba"
+        },
+        {
+            "marca": "zubr",
+            "precio": 200,
+            "coloracion": "oscura",
+            "loc": [23.071570,-82.432557],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto101.jpg",
+            "pais":"Polonia"
+        },
+        {
+            "marca": "windmill",
+            "precio": 160,
+            "coloracion": "clara",
+            "loc": [23.071210861206055,-82.42838287353516],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto107.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "halcon peregrino",
+            "precio": 160,
+            "coloracion": "clara",
+            "loc": [23.071210861206055,-82.42838287353516],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto107.jpg",
+            "pais":"Nicaragua"
+        },
+        {
+            "marca": "martens",
+            "precio": 160,
+            "coloracion": "clara",
+            "loc": [23.071210861206055,-82.42838287353516],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto107.jpg",
+            "pais":"Belgica"
+        },
+        {
+            "marca": "la salve",
+            "precio": 160,
+            "coloracion": "clara",
+            "loc": [23.071210861206055,-82.42838287353516],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto107.jpg",
+            "pais":"Espana"
+        },
+        {
+            "marca": "vitalsberg",
+            "precio": 160,
+            "coloracion": "clara",
+            "loc": [23.071210861206055,-82.42838287353516],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto107.jpg",
+            "pais":"Espana"
+        },
+        {
+            "marca": "stella artois",
+            "precio": 160,
+            "coloracion": "clara",
+            "loc": [23.071210861206055,-82.42838287353516],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto107.jpg",
+            "pais":"Belgica"
+        },
+        {
+            "marca": "holland",
+            "precio": 160,
+            "coloracion": "clara",
+            "loc": [23.071210861206055,-82.42838287353516],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto107.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "cristal",
+            "precio": 220,
+            "coloracion": "clara",
+            "loc": [23.075349, -82.427320],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto115.jpg",
+            "pais":"Cuba"
+        },
+        {
+            "marca": "bavaria",
+            "precio": 160,
+            "coloracion": "clara",
+            "loc": [23.075349, -82.427320],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto115.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "holland",
+            "precio": 160,
+            "coloracion": "clara",
+            "loc": [23.075349, -82.427320],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto115.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "hollandia",
+            "precio": 190,
+            "coloracion": "clara",
+            "loc": [23.075264, -82.426752],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto118.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "cristal",
+            "precio": 200,
+            "coloracion": "clara",
+            "loc": [23.077112197875977,-82.42804718017578],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto129.jpg",
+            "pais":"Cuba"
+        },
+        {
+            "marca": "hollandia",
+            "precio": 170,
+            "coloracion": "clara",
+            "loc": [23.077112197875977,-82.42804718017578],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto129.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "windmill",
+            "precio": 170,
+            "coloracion": "clara",
+            "loc": [23.077112197875977,-82.42804718017578],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto129.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "bavaria",
+            "precio": 170,
+            "coloracion": "clara",
+            "loc": [23.077112197875977,-82.42804718017578],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto129.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "shekels",
+            "precio": 170,
+            "coloracion": "clara",
+            "loc": [23.077112197875977,-82.42804718017578],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto129.jpg",
+            "pais":"Mexico"
+        },
+        {
+            "marca": "stella artois",
+            "precio": 170,
+            "coloracion": "clara",
+            "loc": [23.077706, -82.427921],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto132.jpg",
+            "pais":"Belgica"
+        },
+        {
+            "marca": "holland",
+            "precio": 140,
+            "coloracion": "clara",
+            "loc": [23.085561 , -82.425360],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto138.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "stella artois",
+            "precio": 160,
+            "coloracion": "clara",
+            "loc": [23.089881896972656,-82.42431640625],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto140.jpg",
+            "pais":"Belgica"
+        },
+        {
+            "marca": "mahou",
+            "precio": 160,
+            "coloracion": "clara",
+            "loc": [23.09353256225586,-82.42330169677734],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto143.jpg",
+            "pais":"Espana"
+        },
+        {
+            "marca": "stella artois",
+            "precio": 160,
+            "coloracion": "clara",
+            "loc": [23.09353256225586,-82.42330169677734],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto143.jpg",
+            "pais":"Belgica"
+        },
+        {
+            "marca": "shekels",
+            "precio": 160,
+            "coloracion": "clara",
+            "loc": [23.09353256225586,-82.42330169677734],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto143.jpg",
+            "pais":"Mexico"
+        },
+        {
+            "marca": "holland",
+            "precio": 160,
+            "coloracion": "clara",
+            "loc": [23.09353256225586,-82.42330169677734],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto143.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "bucanero",
+            "precio": 250,
+            "coloracion": "oscura",
+            "loc": [23.079747 , -82.434144],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto144.jpg",
+            "pais":"Cuba"
+        },
+        {
+            "marca": "hollandia",
+            "precio": 200,
+            "coloracion": "clara",
+            "loc": [23.079747 , -82.434144],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto144.jpg",
+            "pais":"Paises Bajos"
+        },
+        {
+            "marca": "cristal",
+            "precio": 250,
+            "coloracion": "clara",
+            "loc": [23.079816,-82.434184],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto144.jpg",
+            "pais":"Cuba"
+        },
+        {
+            "marca": "martens",
+            "precio": 200,
+            "coloracion": "clara",
+            "loc": [23.079747 , -82.434144],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto144.jpg",
+            "pais":"Belgica"
+        },
+        {
+            "marca": "corona",
+            "precio": 240,
+            "coloracion": "clara",
+            "loc": [23.079747 , -82.434144],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto144.jpg",
+            "pais":"Mexico"
+        },
+        {
+            "marca": "hollandia",
+            "precio": 150,
+            "coloracion": "clara",
+            "loc": [23.079747 , -82.434144],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto145.jpg",
+            "pais":"Paises Bajos"
+        }
+    ],
+    "cebolla" : [
+        {
+            "tipo": "blanca",
+            "precio": 170,
+            "categoria":"libra",
+            "loc": [23.070397, -82.431605],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto56.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 180,
+            "categoria":"libra",
+            "loc": [23.070276, -82.431859],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto69.jpg"
+        },
+        {
+            "tipo":"blanca",
+            "precio":160,
+            "categoria":"libra",
+            "loc":[23.070992, -82.431736],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto53.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 180,
+            "categoria":"libra",
+            "loc": [23.083209, -82.435319],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto51.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 123,
+            "categoria":"paquete",
+            "loc": [23.078649, -82.429396],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto45.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 160,
+            "categoria":"libra",
+            "loc": [23.079933, -82.422966],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto20.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 200,
+            "categoria":"libra",
+            "loc": [23.075319, -82.427452],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto19.jpg"
+        },
+        {
+            "tipo": "morada",
+            "precio": 200,
+            "categoria":"libra",
+            "loc": [23.075319, -82.427452],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto19.jpg"
+        },
+        {
+            "tipo": "morada",
+            "precio": 200,
+            "categoria":"libra",
+            "loc": [23.076247,-82.430298],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto79.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 200,
+            "categoria":"libra",
+            "loc": [23.076100,-82.434602],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto109.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 180,
+            "categoria":"libra",
+            "loc": [23.076247,-82.430298],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto18.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 160,
+            "categoria":"libra",
+            "loc": [23.076390, -82.433205],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto22.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 200,
+            "categoria":"libra",
+            "loc": [23.085776,-82.437593],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto64.jpg"
+        },
+        {
+            "tipo": "morada",
+            "precio": 200,
+            "categoria":"libra",
+            "loc": [23.085776,-82.437593],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto64.jpg"
+        },
+        {
+            "tipo": "morada",
+            "precio": 210,
+            "categoria":"libra",
+            "loc": [23.075319, -82.427452],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto114.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 210,
+            "categoria":"libra",
+            "loc": [23.075319, -82.427452],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto114.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 200,
+            "categoria":"libra",
+            "loc": [23.077311, -82.424813],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto125.jpg"
+        },
+        {
+            "tipo": "morada",
+            "precio": 200,
+            "categoria":"libra",
+            "loc": [23.077311, -82.424813],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto125.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 200,
+            "categoria":"libra",
+            "loc": [23.079064,-82.428684],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto134.jpg"
+        },
+        {
+            "tipo": "morada",
+            "precio": 200,
+            "categoria":"libra",
+            "loc": [23.084172,-82.426158],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto135.jpg"
+        },
+        {
+            "tipo": "morada",
+            "precio": 200,
+            "categoria":"libra",
+            "loc": [23.080121994018555,-82.42907188964844],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto136.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 200,
+            "categoria":"libra",
+            "loc": [23.084859,-82.424973],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto135.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 380,
+            "categoria":"paquete",
+            "loc": [23.093098,-82.423399],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto141.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 420,
+            "categoria":"libra",
+            "loc": [23.093098,-82.423399],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto141.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 200,
+            "categoria":"libra",
+            "loc": [23.081702,-82.435297],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto150.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 100,
+            "categoria":"libra",
+            "loc": [23.071395,-82.428081],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto93.jpg"
+        },
+        {
+            "tipo": "morada",
+            "precio": 100,
+            "categoria":"libra",
+            "loc": [23.071395,-82.428081],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto93.jpg"
+        }
+        
+        
+    ],
+    "zuko"  : [
+        {
+            "tipo":"manzana",
+            "precio":60,
+            "loc":[23.072926, -82.431599],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto37.jpg"
+        },{
+            "tipo":"naranja",
+            "precio":60,
+            "loc":[23.076412, -82.434851],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto30.jpg"
+        },{
+            "tipo":"guanabana",
+            "precio":80,
+            "loc":[23.076412, -82.434851],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto26.jpg"
+        },{
+            "tipo":"uva",
+            "precio":60,
+            "loc":[23.076412, -82.434851],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto30.jpg"
+        },{
+            "tipo":"fresa",
+            "precio":100,
+            "loc":[23.079625, -82.434017],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto48.jpg"
+        },{
+            "tipo":"mandarina",
+            "precio":85,
+            "loc":[23.079649, -82.43047],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto46.jpg"
+        },
+        {
+            "tipo":"durazno",
+            "precio":80,
+            "loc":[23.076412, -82.434851],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto26.jpg"
+        },{
+            "tipo":"limon",
+            "precio":60,
+            "loc":[23.076412, -82.434851],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto30.jpg"
+        },{
+            "tipo":"sandia",
+            "precio":85,
+            "loc":[23.079649, -82.43047],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto46.jpg"
+        },{
+            "tipo":"pinna",
+            "precio":85,
+            "loc":[23.079649, -82.43047],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto46.jpg"
+        },{
+            "tipo":"pinna coco",
+            "precio":80,
+            "loc":[23.082459, -82.431010],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto71.jpg"
+        },{
+            "tipo":"tamarindo",
+            "precio":80,
+            "loc":[23.077798, -82.438123],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto59.jpg"
+        },{
+            "tipo":"coco",
+            "precio":100,
+            "loc":[23.079625, -82.434017],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto48.jpg"
+        },{
+            "tipo":"melocoton",
+            "precio":60,
+            "loc":[23.076412, -82.434851],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto30.jpg"
+        },{
+            "tipo":"maracuya",
+            "precio":80,
+            "loc":[23.083747, -82.436813],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto67.jpg"
+        },{
+            "tipo":"uva",
+            "precio":60,
+            "loc":[23.072926, -82.431599],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto37.jpg"
+        },{
+            "tipo":"limon",
+            "precio":85,
+            "loc":[23.079649, -82.43047],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto46.jpg"
+        },{
+            "tipo":"guanabana",
+            "precio":85,
+            "loc":[23.079649, -82.43047],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto46.jpg"
+        },{
+            "tipo":"uva",
+            "precio":85,
+            "loc":[23.079649, -82.43047],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto46.jpg"
+        },{
+            "tipo":"naranja",
+            "precio":85,
+            "loc":[23.079649, -82.43047],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto46.jpg"
+        },{
+            "tipo":"durazno",
+            "precio":85,
+            "loc":[23.079649, -82.43047],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto46.jpg"
+        },{
+            "tipo":"manzana",
+            "precio":85,
+            "loc":[23.079649, -82.43047],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto46.jpg"
+        },{
+            "tipo":"uva",
+            "precio":100,
+            "loc":[23.079625, -82.434017],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto48.jpg"
+        },{
+            "tipo":"manzana",
+            "precio":100,
+            "loc":[23.079625, -82.434017],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto48.jpg"
+        },{
+            "tipo":"guanabana",
+            "precio":100,
+            "loc":[23.079625, -82.434017],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto48.jpg"
+        },
+        {
+            "tipo":"sandia",
+            "precio":100,
+            "loc":[23.079625, -82.434017],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto48.jpg"
+        },
+        {
+            "tipo":"naranja",
+            "precio":100,
+            "loc":[23.079625, -82.434017],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto48.jpg"
+        },{
+            "tipo":"mandarina",
+            "precio":100,
+            "loc":[23.079625, -82.434017],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto48.jpg"
+        },{
+            "tipo":"pinna",
+            "precio":75,
+            "loc":[23.081110, -82.435132],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto49.jpg"
+        },{
+            "tipo":"manzana",
+            "precio":75,
+            "loc":[23.081110, -82.435132],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto49.jpg"
+        },{
+            "tipo":"naranja",
+            "precio":75,
+            "loc":[23.081110, -82.435132],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto49.jpg"
+        },{
+            "tipo":"mandarina",
+            "precio":75,
+            "loc":[23.081110, -82.435132],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto49.jpg"
+        },{
+            "tipo":"limon",
+            "precio":80,
+            "loc":[23.077798, -82.438123],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto59.jpg"
+        },{
+            "tipo":"manzana",
+            "precio":80,
+            "loc":[23.077798, -82.438123],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto59.jpg"
+        },{
+            "tipo":"mandarina",
+            "precio":80,
+            "loc":[23.077798, -82.438123],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto59.jpg"
+        },{
+            "tipo":"sandia",
+            "precio":80,
+            "loc":[23.077798, -82.438123],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto59.jpg"
+        },{
+            "tipo":"guanabana",
+            "precio":80,
+            "loc":[23.077798, -82.438123],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto59.jpg"
+        },{
+            "tipo":"naranja",
+            "precio":80,
+            "loc":[23.077798, -82.438123],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto59.jpg"
+        },{
+            "tipo":"naranja",
+            "precio":80,
+            "loc":[23.078049, -82.438366],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto60.jpg"
+        },{
+            "tipo":"tamarindo",
+            "precio":80,
+            "loc":[23.078049, -82.438366],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto60.jpg"
+        },{
+            "tipo":"fresa",
+            "precio":80,
+            "loc":[23.078049, -82.438366],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto60.jpg"
+        },{
+            "tipo":"sandia",
+            "precio":80,
+            "loc":[23.078049, -82.438366],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto60.jpg"
+        },{
+            "tipo":"pinna",
+            "precio":80,
+            "loc":[23.078049, -82.438366],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto60.jpg"
+        },{
+            "tipo":"uva",
+            "precio":80,
+            "loc":[23.078049, -82.438366],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto60.jpg"
+        },{
+            "tipo":"manzana",
+            "precio":80,
+            "loc":[23.084112, -82.436014],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto66.jpg"
+        },{
+            "tipo":"naranja",
+            "precio":80,
+            "loc":[23.084112, -82.436014],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto66.jpg"
+        },{
+            "tipo":"uva",
+            "precio":80,
+            "loc":[23.084112, -82.436014],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto66.jpg"
+        },{
+            "tipo":"guanabana",
+            "precio":80,
+            "loc":[23.084112, -82.436014],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto66.jpg"
+        },{
+            "tipo":"pinna",
+            "precio":80,
+            "loc":[23.084112, -82.436014],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto66.jpg"
+        },{
+            "tipo":"fresa",
+            "precio":80,
+            "loc":[23.084112, -82.436014],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto66.jpg"
+        },{
+            "tipo":"fresa",
+            "precio":80,
+            "loc":[23.083747, -82.436813],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto67.jpg"
+        },{
+            "tipo":"durazno",
+            "precio":80,
+            "loc":[23.083747, -82.436813],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto67.jpg"
+        },{
+            "tipo":"uva",
+            "precio":80,
+            "loc":[23.083747, -82.436813],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto67.jpg"
+        },{
+            "tipo":"guanabana",
+            "precio":80,
+            "loc":[23.083747, -82.436813],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto67.jpg"
+        },{
+            "tipo":"limon",
+            "precio":80,
+            "loc":[23.083747, -82.436813],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto67.jpg"
+        },{
+            "tipo":"guanabana",
+            "precio":80,
+            "loc":[23.080659, -82.434992],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto70.jpg"
+        },{
+            "tipo":"tamarindo",
+            "precio":80,
+            "loc":[23.080659, -82.434992],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto70.jpg"
+        },{
+            "tipo":"manzana",
+            "precio":80,
+            "loc":[23.082459, -82.431010],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto71.jpg"
+        },{
+            "tipo":"uva",
+            "precio":80,
+            "loc":[23.082459, -82.431010],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto71.jpg"
+        },{
+            "tipo":"limon",
+            "precio":80,
+            "loc":[23.082459, -82.431010],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto71.jpg"
+        },{
+            "tipo":"fresa",
+            "precio":80,
+            "loc":[23.082459, -82.431010],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto71.jpg"
+        },{
+            "tipo":"mandarina",
+            "precio":80,
+            "loc":[23.082459, -82.431010],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto71.jpg"
+        },{
+            "tipo":"manzana",
+            "precio":80,
+            "loc":[23.080697, -82.429484],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto75.jpg"
+        },{
+            "tipo":"pinna coco",
+            "precio":80,
+            "loc":[23.080697, -82.429484],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto75.jpg"
+        },{
+            "tipo":"naranja",
+            "precio":80,
+            "loc":[23.080697, -82.429484],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto75.jpg"
+        },{
+            "tipo":"mandarina",
+            "precio":80,
+            "loc":[23.080697, -82.429484],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto75.jpg"
+        },{
+            "tipo":"guanabana",
+            "precio":80,
+            "loc":[23.080697, -82.429484],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto75.jpg"
+        },{
+            "tipo":"durazno",
+            "precio":80,
+            "loc":[23.080697, -82.429484],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto75.jpg"
+        },{
+            "tipo":"manzana",
+            "precio":80,
+            "loc":[23.074302, -82.430261],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto87.jpg"
+        },{
+            "tipo":"mandarina",
+            "precio":90,
+            "loc":[23.072811, -82.428959],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto92.jpg"
+        },{
+            "tipo":"durazno",
+            "precio":90,
+            "loc":[23.072811, -82.428959],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto92.jpg"
+        },{
+            "tipo":"tamarindo",
+            "precio":90,
+            "loc":[23.072811, -82.428959],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto92.jpg"
+        },{
+            "tipo":"sandia",
+            "precio":90,
+            "loc":[23.072811, -82.428959],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto92.jpg"
+        },{
+            "tipo":"naranja",
+            "precio":90,
+            "loc":[23.072811, -82.428959],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto92.jpg"
+        },{
+            "tipo":"pinna",
+            "precio":90,
+            "loc":[23.072811, -82.428959],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto92.jpg"
+        },{
+            "tipo":"manzana",
+            "precio":90,
+            "loc":[23.072811, -82.428959],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto92.jpg"
+        },{
+            "tipo":"coco",
+            "precio":90,
+            "loc":[23.072811, -82.428959],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto92.jpg"
+        },{
+            "tipo":"pinna coco",
+            "precio":90,
+            "loc":[23.072811, -82.428959],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto92.jpg"
+        },{
+            "tipo":"uva",
+            "precio":80,
+            "loc":[23.070939, -82.430533],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto95.jpg"
+        },{
+            "tipo":"fresa",
+            "precio":80,
+            "loc":[23.070939, -82.430533],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto95.jpg"
+        },{
+            "tipo":"durazno",
+            "precio":80,
+            "loc":[23.070939, -82.430533],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto95.jpg"
+        },
+        {
+            "tipo":"naranja",
+            "precio":80,
+            "loc":[23.070939, -82.430533],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto95.jpg"
+        },
+        {
+            "tipo":"mandarina",
+            "precio":80,
+            "loc":[23.070939, -82.430533],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto95.jpg"
+        },
+        {
+            "tipo":"manzana",
+            "precio":80,
+            "loc":[23.070939, -82.430533],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto95.jpg"
+        },
+        {
+            "tipo":"guanabana",
+            "precio":80,
+            "loc":[23.070878, -82.431716],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto97.jpg"
+        },
+        {
+            "tipo":"fresa",
+            "precio":80,
+            "loc":[23.070878, -82.431716],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto97.jpg"
+        },
+        {
+            "tipo":"naranja",
+            "precio":80,
+            "loc":[23.070878, -82.431716],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto97.jpg"
+        },
+        {
+            "tipo":"manzana",
+            "precio":80,
+            "loc":[23.070878, -82.431716],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto97.jpg"
+        },
+        {
+            "tipo":"uva",
+            "precio":80,
+            "loc":[23.070878, -82.431716],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto97.jpg"
+        },
+        {
+            "tipo":"pinna",
+            "precio":80,
+            "loc":[23.070878, -82.431716],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto97.jpg"
+        },
+        {
+            "tipo":"durazno",
+            "precio":80,
+            "loc":[23.070878, -82.431716],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto97.jpg"
+        },
+        {
+            "tipo":"mandarina",
+            "precio":80,
+            "loc":[23.071671, -82.432533],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto99.jpg"
+        },
+        {
+            "tipo":"coco",
+            "precio":80,
+            "loc":[23.071671, -82.432533],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto99.jpg"
+        },
+        {
+            "tipo":"limon",
+            "precio":80,
+            "loc":[23.071671, -82.432533],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto99.jpg"
+        },
+        {
+            "tipo":"naranja",
+            "precio":80,
+            "loc":[23.071671, -82.432533],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto99.jpg"
+        },
+        {
+            "tipo":"fresa",
+            "precio":90,
+            "loc":[23.071407, -82.434531],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto104.jpg"
+        },
+        {
+            "tipo":"fresa",
+            "precio":80,
+            "loc":[23.071225, -82.434413],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto105.jpg"
+        },
+        {
+            "tipo":"naranja",
+            "precio":80,
+            "loc":[23.071225, -82.434413],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto105.jpg"
+        },
+        {
+            "tipo":"mandarina",
+            "precio":80,
+            "loc":[23.071225, -82.434413],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto105.jpg"
+        },
+        {
+            "tipo":"tamarindo",
+            "precio":80,
+            "loc":[23.071225, -82.434413],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto105.jpg"
+        },
+        {
+            "tipo":"durazno",
+            "precio":80,
+            "loc":[23.071225, -82.434413],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto105.jpg"
+        },
+        {
+            "tipo":"pinna coco",
+            "precio":80,
+            "loc":[23.071225, -82.434413],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto105.jpg"
+        },
+        {
+            "tipo":"uva",
+            "precio":80,
+            "loc":[23.071225, -82.434413],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto105.jpg"
+        },
+        {
+            "tipo":"coco",
+            "precio":80,
+            "loc":[23.071225, -82.434413],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto105.jpg"
+        },
+        {
+            "tipo":"manzana",
+            "precio":80,
+            "loc":[23.071225, -82.434413],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto105.jpg"
+        },
+        {
+            "tipo":"melocoton",
+            "precio":80,
+            "loc":[23.071225, -82.434413],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto106.jpg"
+        },
+        {
+            "tipo":"sandia",
+            "precio":80,
+            "loc":[23.071225, -82.434413],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto106.jpg"
+        },
+        {
+            "tipo":"limon",
+            "precio":80,
+            "loc":[23.071225, -82.434413],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto106.jpg"
+        },
+        {
+            "tipo":"fresa",
+            "precio":80,
+            "loc":[23.075349, -82.427320],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto115.jpg"
+        },
+        {
+            "tipo":"pinna coco",
+            "precio":80,
+            "loc":[23.075349, -82.427320],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto115.jpg"
+        },
+        {
+            "tipo":"durazno",
+            "precio":80,
+            "loc":[23.075349, -82.427320],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto115.jpg"
+        },
+        {
+            "tipo":"uva",
+            "precio":80,
+            "loc":[23.075349, -82.427320],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto115.jpg"
+        },
+        {
+            "tipo":"sandia",
+            "precio":80,
+            "loc":[23.075349, -82.427320],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto115.jpg"
+        },
+        {
+            "tipo":"pinna",
+            "precio":80,
+            "loc":[23.075349, -82.427320],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto115.jpg"
+        },
+        {
+            "tipo":"naranja",
+            "precio":80,
+            "loc":[23.075349, -82.427320],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto115.jpg"
+        },
+        {
+            "tipo":"fresa",
+            "precio":80,
+            "loc":[23.075264, -82.426752],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto118.jpg"
+        },
+        {
+            "tipo":"sandia",
+            "precio":80,
+            "loc":[23.075264, -82.426752],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto118.jpg"
+        },
+        {
+            "tipo":"uva",
+            "precio":80,
+            "loc":[23.075349, -82.427320],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto117.jpg"
+        },
+        {
+            "tipo":"durazno",
+            "precio":80,
+            "loc":[23.075264, -82.426752],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto118.jpg"
+        },
+        {
+            "tipo":"guanabana",
+            "precio":80,
+            "loc":[23.075264, -82.426752],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto118.jpg"
+        },
+        {
+            "tipo":"limon",
+            "precio":75,
+            "loc":[23.076641, -82.427586],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto128.jpg"
+        },
+        {
+            "tipo":"guanabana",
+            "precio":75,
+            "loc":[23.076641, -82.427586],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto128.jpg"
+        },
+        {
+            "tipo":"melocoton",
+            "precio":75,
+            "loc":[23.076641, -82.427586],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto128.jpg"
+        },
+        {
+            "tipo":"fresa",
+            "precio":100,
+            "loc":[23.077706, -82.427921],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto133.jpg"
+        },
+        {
+            "tipo":"manzana",
+            "precio":100,
+            "loc":[23.077706, -82.427921],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto133.jpg"
+        },
+        {
+            "tipo":"guanabana",
+            "precio":100,
+            "loc":[23.077706, -82.427921],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto133.jpg"
+        },
+        {
+            "tipo":"tamarindo",
+            "precio":100,
+            "loc":[23.077706, -82.427921],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto133.jpg"
+        },
+        {
+            "tipo":"uva",
+            "precio":70,
+            "loc":[23.085561 , -82.425360],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto138.jpg"
+        },
+        {
+            "tipo":"manzana",
+            "precio":70,
+            "loc":[23.085561 , -82.425360],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto138.jpg"
+        },
+        {
+            "tipo":"guanabana",
+            "precio":70,
+            "loc":[23.085561 , -82.425360],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto138.jpg"
+        },
+        {
+            "tipo":"mandarina",
+            "precio":70,
+            "loc":[23.085561 , -82.425360],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto138.jpg"
+        },
+        {
+            "tipo":"pinna",
+            "precio":70,
+            "loc":[23.085561 , -82.425360],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto138.jpg"
+        },
+        {
+            "tipo":"limon",
+            "precio":70,
+            "loc":[23.085561 , -82.425360],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto138.jpg"
+        },
+        {
+            "tipo":"coco",
+            "precio":100,
+            "loc":[23.079747 , -82.434144],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto144.jpg"
+        },
+        {
+            "tipo":"pinna coco",
+            "precio":100,
+            "loc":[23.079747 , -82.434144],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto144.jpg"
+        },
+        {
+            "tipo":"manzana",
+            "precio":100,
+            "loc":[23.079747 , -82.434144],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto144.jpg"
+        },
+        {
+            "tipo":"mandarina",
+            "precio":100,
+            "loc":[23.079747 , -82.434144],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto144.jpg"
+        },
+        {
+            "tipo":"uva",
+            "precio":100,
+            "loc":[23.079747 , -82.434144],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto144.jpg"
+        },
+        {
+            "tipo":"durazno",
+            "precio":100,
+            "loc":[23.079747 , -82.434144],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto144.jpg"
+        },
+        {
+            "tipo":"naranja",
+            "precio":100,
+            "loc":[23.079747 , -82.434144],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto144.jpg"
+        },
+        {
+            "tipo":"sandia",
+            "precio":100,
+            "loc":[23.079747 , -82.434144],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto144.jpg"
+        },
+        {
+            "tipo":"limon",
+            "precio":100,
+            "loc":[23.079747 , -82.434144],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto144.jpg"
+        },
+        {
+            "tipo":"guanabana",
+            "precio":100,
+            "loc":[23.079747 , -82.434144],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto144.jpg"
+        },
+        {
+            "tipo":"guanabana",
+            "precio":70,
+            "loc":[23.080472 , -82.434728],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto147.jpg"
+        },
+        {
+            "tipo":"manzana",
+            "precio":70,
+            "loc":[23.080472 , -82.434728],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto147.jpg"
+        },
+        {
+            "tipo":"limon",
+            "precio":70,
+            "loc":[23.080472 , -82.434728],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto147.jpg"
+        },
+        {
+            "tipo":"naranja",
+            "precio":70,
+            "loc":[23.080472 , -82.434728],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto147.jpg"
+        }
+    ],
+    "refresco"  : [
+        {
+            "marca":"pepsi",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.072017669677734, -82.43247985839844],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto52.jpg",
+            "pais":"Estados Unidos"
+        },
+        {
+            "marca":"pepsi",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":180,
+            "loc":[23.08129119873047, -82.43054962158203],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto50.jpg",
+            "pais":"Estados Unidos"
+        },{
+            "marca":"santa",
+            "sabor":"naranja",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.08129119873047, -82.43054962158203],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto50.jpg",
+            "pais":"Espana"
+        },{
+            "marca":"santa",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.08129119873047, -82.43054962158203],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto50.jpg",
+            "pais":"Espana"
+        },{
+            "marca":"santa",
+            "sabor":"limon",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.08129119873047, -82.43054962158203],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto50.jpg",
+            "pais":"Espana"
+        },{
+            "marca":"seven up",
+            "sabor":"limon",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.081110, -82.435132],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto49.jpg",
+            "pais":"Estados Unidos"
+        },{
+            "marca":"coca cola",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.081110, -82.435132],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto49.jpg",
+            "pais":"Estados Unidos"
+        },{
+            "marca":"najita",
+            "sabor":"naranja",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.081110, -82.435132],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto49.jpg",
+            "pais":"Cuba"
+        },{
+            "marca":"mirinda",
+            "sabor":"naranja",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.079649, -82.43047],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto47.jpg",
+            "pais":"Espana"
+        },{
+            "marca":"santa",
+            "sabor":"naranja",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.079649, -82.43047],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto47.jpg",
+            "pais":"Espana"
+        },{
+            "marca":"santa",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.079649, -82.43047],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto47.jpg",
+            "pais":"Espana"
+        },{
+            "marca":"pepsi",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.079649, -82.43047],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto47.jpg",
+            "pais":"Estados Unidos"
+        },{
+            "marca":"ciego montero",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":130,
+            "loc":[23.07573890686035, -82.43394470214844],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto41.jpg",
+            "pais":"Cuba"
+        },{
+            "marca":"coca cola",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":180,
+            "loc":[23.08129119873047, -82.43054962158203],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto38.jpg",
+            "pais":"Estados Unidos"
+        },{
+            "marca":"fanta",
+            "sabor":"naranja",
+            "envase":"lata",
+            "precio":180,
+            "loc":[23.08129119873047, -82.43054962158203],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto38.jpg",
+            "pais":"Itilia"
+        },{
+            "marca":"ciego montero",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":170,
+            "loc":[23.08129119873047, -82.43054962158203],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto38.jpg",
+            "pais":"Cuba"
+        },{
+            "marca":"sprite",
+            "sabor":"limon",
+            "envase":"lata",
+            "precio":180,
+            "loc":[23.08129119873047, -82.43054962158203],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto38.jpg",
+            "pais":"Estados Unidos"
+        },{
+            "marca":"tropicola",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":170,
+            "loc":[23.08129119873047, -82.43054962158203],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto38.jpg",
+            "pais":"Cuba"
+        },
+        {
+            "marca":"seven up",
+            "sabor":"limon",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.07573890686035, -82.43394470214844],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto37.jpg",
+            "pais":"Estados Unidos"
+        },{
+            "marca":"mirinda",
+            "sabor":"naranja",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.07573890686035, -82.43394470214844],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto37.jpg",
+            "pais":"Espana"
+        },{
+            "marca":"ciego montero",
+            "sabor":"naranja",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.07573890686035, -82.43394470214844],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto37.jpg",
+            "pais":"Cuba"
+        },{
+            "marca":"pepsi",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.07573890686035, -82.43394470214844],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto37.jpg",
+            "pais":"Estados Unidos"
+        },{
+            "marca":"ciego montero",
+            "sabor":"pinna",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.07573890686035, -82.43394470214844],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto37.jpg",
+            "pais":"Cuba"
+        },{
+            "marca":"santa",
+            "sabor":"limon",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.07573890686035, -82.43394470214844],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto37.jpg",
+            "pais":"Espana"
+        },{
+            "marca":"pool",
+            "sabor":"naranja",
+            "envase":"pomo",
+            "precio":150,
+            "loc":[23.07573890686035, -82.43394470214844],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto37.jpg",
+            "pais":"Mexico"
+        },{
+            "marca":"frised",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.07573890686035, -82.43394470214844],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto36.jpg",
+            "pais":"Alemania"
+        },{
+            "marca":"ciego montero",
+            "sabor":"mate",
+            "envase":"pomo",
+            "precio":380,
+            "loc":[23.07573890686035, -82.43394470214844],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto35.jpg",
+            "pais":"Cuba"
+        },{
+            "marca":"ciego montero",
+            "sabor":"cola",
+            "envase":"pomo",
+            "precio":350,
+            "loc":[23.07573890686035, -82.43394470214844],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto35.jpg",
+            "pais":"Cuba"
+        },
+        {
+            "marca":"pepsi",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":180,
+            "loc":[23.07573890686035, -82.43394470214844],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto34.jpg",
+            "pais":"Estados Unidos"
+        },{
+            "marca":"mirinda",
+            "sabor":"naranja",
+            "envase":"lata",
+            "precio":180,
+            "loc":[23.07573890686035, -82.43394470214844],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto34.jpg",
+            "pais":"Espana"
+        },
+        {
+            "marca":"ciego montero",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.076431274414062, -82.43324279785156],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto23.jpg",
+            "pais":"Cuba"
+        },{
+            "marca":"ciego montero",
+            "sabor":"cola dietetica",
+            "envase":"lata",
+            "precio":130,
+            "loc":[23.076431274414062, -82.43324279785156],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto23.jpg",
+            "pais":"Cuba"
+        },{
+            "marca":"ciego montero",
+            "sabor":"naranja",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.076431274414062, -82.43324279785156],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto23.jpg",
+            "pais":"Cuba"
+        },{
+            "marca":"seven up",
+            "sabor":"limon",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.076431274414062, -82.43324279785156],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto23.jpg",
+            "pais":"Estados Unidos"
+        },{
+            "marca":"pepsi",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.076431274414062, -82.43324279785156],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto23.jpg",
+            "pais":"Estados Unidos"
+        },{
+            "marca":"pepsi",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":180,
+            "loc":[23.0898881896972656, -82.42431640625],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto11.jpg",
+            "pais":"Estados Unidos"
+        },{
+            "marca":"ciego montero",
+            "sabor":"limon",
+            "envase":"lata",
+            "precio":160,
+            "loc":[23.0898881896972656, -82.42431640625],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto11.jpg",
+            "pais":"Cuba"
+        },{
+            "marca":"ciego montero",
+            "sabor":"limon",
+            "envase":"pomo",
+            "precio":350,
+            "loc":[23.0898881896972656, -82.42431640625],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto12.jpg",
+            "pais":"Cuba"
+        },{
+            "marca":"ciego montero",
+            "sabor":"naranja",
+            "envase":"pomo",
+            "precio":350,
+            "loc":[23.0898881896972656, -82.42431640625],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto12.jpg",
+            "pais":"Cuba"
+        },{
+            "marca":"ciego montero",
+            "sabor":"cola",
+            "envase":"pomo",
+            "precio":350,
+            "loc":[23.0898881896972656, -82.42431640625],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto12.jpg",
+            "pais":"Cuba"
+        },{
+            "marca":"ciego montero",
+            "sabor":"mate",
+            "envase":"pomo",
+            "precio":350,
+            "loc":[23.0898881896972656, -82.42431640625],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto12.jpg",
+            "pais":"Cuba"
+        },
+        {
+            "marca":"tropicola",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":160,
+            "loc":[23.0898881896972656, -82.42431640625],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto7.jpg",
+            "pais":"Cuba"
+        },{
+            "marca":"frised",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.0898881896972656, -82.42431640625],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto7.jpg",
+            "pais":"Alemania"
+        },{
+            "marca":"frised",
+            "sabor":"naranja",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.0898881896972656, -82.42431640625],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto7.jpg",
+            "pais":"Alemania"
+        },{
+            "marca":"santa",
+            "sabor":"naranja",
+            "envase":"lata",
+            "precio":160,
+            "loc":[23070594787597656, -82.4329605102539],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto3.jpg",
+            "pais":"Espana"
+        },{
+            "marca":"santa",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":160,
+            "loc":[23070594787597656, -82.4329605102539],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto3.jpg",
+            "pais":"Espana"
+        },{
+            "marca":"ritz",
+            "sabor":"cola",
+            "precio":160,
+            "loc":[23070594787597656, -82.4329605102539],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto3.jpg",
+            "pais":"Estados Unidos"
+        },{
+            "marca":"ritz",
+            "sabor":"naranja",
+            "precio":160,
+            "loc":[23070594787597656, -82.4329605102539],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto3.jpg",
+            "pais":"Estados Unidos"
+        },
+        {
+            "marca":"frised",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.073787689208984,-82.43583679199219],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto31.jpg",
+            "pais":"Alemania"
+        },{
+            "marca":"frised",
+            "sabor":"naranja",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.073787689208984,-82.43583679199219],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto31.jpg",
+            "pais":"Alemania"
+        },{
+            "marca":"frised",
+            "sabor":"pinna",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.073787689208984,-82.43583679199219],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto31.jpg",
+            "pais":"Alemania"
+        },
+        {
+            "marca":"ciego montero",
+            "sabor":"cola",
+            "envase":"pomo",
+            "precio":350,
+            "loc":[23.073787689208984,-82.43583679199219],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto30.jpg",
+            "pais":"Cuba"
+        },{
+            "marca":"coca cola",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.073787689208984,-82.43583679199219],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto29.jpg",
+            "pais":"Estados Unidos"
+        },{
+            "marca":"sprite",
+            "sabor":"limon",
+            "envase":"pomo",
+            "precio":130,
+            "loc":[23.073787689208984,-82.43583679199219],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto28.jpg",
+            "pais":"Estados Unidos"
+        },{
+            "marca":"coca cola",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.077798, -82.438123],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto59.jpg",
+            "pais":"Estados Unidos"
+        },{
+            "marca":"ciego montero",
+            "sabor":"limon",
+            "envase":"pomo",
+            "precio":350,
+            "loc":[23.077798, -82.438123],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto59.jpg",
+            "pais":"Cuba"
+        },{
+            "marca":"coca cola",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":160,
+            "loc":[23.077798, -82.438123],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto59.jpg",
+            "pais":"Estados Unidos"
+        },{
+            "marca":"santa",
+            "sabor":"naranja",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.083871841430664,-82.4378662109375],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto65.jpg",
+            "pais":"Espana"
+        },{
+            "marca":"pepsi",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.083871841430664,-82.4378662109375],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto65.jpg",
+            "pais":"Estados Unidos"
+        },{
+            "marca":"pepsi",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.083871841430664,-82.4378662109375],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto68.jpg",
+            "pais":"Estados Unidos"
+        },{
+            "marca":"seven up",
+            "sabor":"limon",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.083871841430664,-82.4378662109375],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto68.jpg",
+            "pais":"Estados Unidos"
+        },
+        {
+            "marca":"mirinda",
+            "sabor":"naranja",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.083871841430664,-82.4378662109375],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto68.jpg",
+            "pais":"Espana"
+        },
+        {
+            "marca":"santa",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":140,
+            "loc":[23.136093139648428,-82.38204193115234],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto73.jpg",
+            "pais":"Espana"
+        },
+        {
+            "marca":"santa",
+            "sabor":"naranja",
+            "envase":"lata",
+            "precio":140,
+            "loc":[23.136093139648428,-82.38204193115234],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto73.jpg",
+            "pais":"Espana"
+        },
+        {
+            "marca":"santa",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":130,
+            "loc":[23.136093139648428,-82.38204193115234],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto76.jpg",
+            "pais":"Espana"
+        },
+        {
+            "marca":"santa",
+            "sabor":"naranja",
+            "envase":"lata",
+            "precio":130,
+            "loc":[23.136093139648428,-82.38204193115234],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto76.jpg",
+            "pais":"Espana"
+        },
+        {
+            "marca":"santa",
+            "sabor":"limon",
+            "envase":"lata",
+            "precio":130,
+            "loc":[23.136093139648428,-82.38204193115234],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto76.jpg",
+            "pais":"Espana"
+        },
+        {
+            "marca":"coca cola",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":160,
+            "loc":[23.07811164855957,-82.43346405029297],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto81.jpg",
+            "pais":"Estados Unidos"
+        },
+        {
+            "marca":"pepsi",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":160,
+            "loc":[23.07811164855957,-82.43346405029297],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto81.jpg",
+            "pais":"Estados Unidos"
+        },
+        {
+            "marca":"santa",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":140,
+            "loc":[23.07811164855957,-82.43346405029297],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto81.jpg",
+            "pais":"Espana"
+        },
+        {
+            "marca":"ciego montero",
+            "sabor":"naranja",
+            "envase":"lata",
+            "precio":140,
+            "loc":[23.07811164855957,-82.43346405029297],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto81.jpg",
+            "pais":"Cuba"
+        },
+        {
+            "marca":"pepsi",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":170,
+            "loc":[23.074302, -82.430261],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto87.jpg",
+            "pais":"Estados Unidos"
+        },
+        {
+            "marca":"najita",
+            "sabor":"naranja",
+            "envase":"lata",
+            "precio":170,
+            "loc":[23.074302, -82.430261],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto87.jpg",
+            "pais":"Cuba"
+        },
+        {
+            "marca":"pepsi",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":180,
+            "loc":[23.07811164855957,-82.43346405029297],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto89.jpg",
+            "pais":"Estados Unidos"
+        },
+        {
+            "marca":"coca cola",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":180,
+            "loc":[23.07811164855957,-82.43346405029297],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto89.jpg",
+            "pais":"Estados Unidos"
+        },
+        {
+            "marca":"sprite",
+            "sabor":"limon",
+            "envase":"lata",
+            "precio":180,
+            "loc":[23.07811164855957,-82.43346405029297],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto89.jpg",
+            "pais":"Estados Unidos"
+        },
+        {
+            "marca":"fanta",
+            "sabor":"naranja",
+            "envase":"lata",
+            "precio":180,
+            "loc":[23.07811164855957,-82.43346405029297],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto89.jpg",
+            "pais":"Itilia"
+        },
+        {
+            "marca":"pepsi",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":160,
+            "loc":[23.07811164855957,-82.43346405029297],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto91.jpg",
+            "pais":"Estados Unidos"
+        },
+        {
+            "marca":"coca cola",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":160,
+            "loc":[23.07811164855957,-82.43346405029297],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto91.jpg",
+            "pais":"Estados Unidos"
+        },
+        {
+            "marca":"seven up",
+            "sabor":"limon",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.07811164855957,-82.43346405029297],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto91.jpg",
+            "pais":"Estados Unidos"
+        },
+        {
+            "marca":"fanta",
+            "sabor":"naranja",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.07811164855957,-82.43346405029297],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto91.jpg",
+            "pais":"Itilia"
+        },
+        {
+            "marca":"frised",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.07811164855957,-82.43346405029297],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto91.jpg",
+            "pais":"Alemania"
+        },
+        {
+            "marca":"pepsi",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.071210861206055,-82.42838287353516],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto94.jpg",
+            "pais":"Estados Unidos"
+        },
+        {
+            "marca":"coca cola",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.071210861206055,-82.42838287353516],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto94.jpg",
+            "pais":"Estados Unidos"
+        },
+        {
+            "marca":"pepsi",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.071210861206055,-82.42838287353516],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto100.jpg",
+            "pais":"Estados Unidos"
+        },
+        {
+            "marca":"coca cola",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.071210861206055,-82.42838287353516],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto100.jpg",
+            "pais":"Estados Unidos"
+        },
+        {
+            "marca":"sprite",
+            "sabor":"limon",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.071210861206055,-82.42838287353516],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto100.jpg",
+            "pais":"Estados Unidos"
+        },
+        {
+            "marca":"ciego montero",
+            "sabor":"cola",
+            "envase":"pomo",
+            "precio":380,
+            "loc":[23.071210861206055,-82.42838287353516],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto102.jpg",
+            "pais":"Cuba"
+        },
+        {
+            "marca":"ciego montero",
+            "sabor":"mate",
+            "envase":"pomo",
+            "precio":380,
+            "loc":[23.071210861206055,-82.42838287353516],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto102.jpg",
+            "pais":"Cuba"
+        },
+        {
+            "marca":"ciego montero",
+            "sabor":"limon",
+            "envase":"pomo",
+            "precio":380,
+            "loc":[23.071210861206055,-82.42838287353516],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto102.jpg",
+            "pais":"Cuba"
+        },
+        {
+            "marca":"ciego montero",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":160,
+            "loc":[23.071210861206055,-82.42838287353516],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto107.jpg",
+            "pais":"Cuba"
+        },
+        {
+            "marca":"ciego montero",
+            "sabor":"naranja",
+            "envase":"lata",
+            "precio":160,
+            "loc":[23.071210861206055,-82.42838287353516],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto107.jpg",
+            "pais":"Cuba"
+        },
+        {
+            "marca":"ciego montero",
+            "sabor":"cola",
+            "envase":"pomo",
+            "precio":380,
+            "loc":[23.071210861206055,-82.42838287353516],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto107.jpg",
+            "pais":"Cuba"
+        },
+        {
+            "marca":"ciego montero",
+            "sabor":"mate",
+            "envase":"pomo",
+            "precio":380,
+            "loc":[23.071210861206055,-82.42838287353516],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto107.jpg",
+            "pais":"Cuba"
+        },
+        {
+            "marca":"pepsi",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":160,
+            "loc":[23.77112197875977,-82.42804718017578],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto115.jpg",
+            "pais":"Estados Unidos"
+        },
+        {
+            "marca":"coca cola",
+            "sabor":"cola dietetica",
+            "envase":"lata",
+            "precio":160,
+            "loc":[23.77112197875977,-82.42804718017578],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto115.jpg",
+            "pais":"Estados Unidos"
+        },
+        {
+            "marca":"frised",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":140,
+            "loc":[23.77112197875977,-82.42804718017578],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto115.jpg",
+            "pais":"Alemania"
+        },
+        {
+            "marca":"frised",
+            "sabor":"limon",
+            "envase":"lata",
+            "precio":140,
+            "loc":[23.77112197875977,-82.42804718017578],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto115.jpg",
+            "pais":"Alemania"
+        },
+        {
+            "marca":"coca cola",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.77112197875977,-82.42804718017578],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto129.jpg",
+            "pais":"Estados Unidos"
+        },
+        {
+            "marca":"ciego montero",
+            "sabor":"mate",
+            "envase":"lata",
+            "precio":140,
+            "loc":[23.77112197875977,-82.42804718017578],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto129.jpg",
+            "pais":"Cuba"
+        },
+        {
+            "marca":"ciego montero",
+            "sabor":"cola",
+            "envase":"pomo",
+            "precio":380,
+            "loc":[23.77112197875977,-82.42804718017578],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto129.jpg",
+            "pais":"Cuba"
+        },
+        {
+            "marca":"ciego montero",
+            "sabor":"mate",
+            "envase":"pomo",
+            "precio":380,
+            "loc":[23.77112197875977,-82.42804718017578],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto129.jpg",
+            "pais":"Cuba"
+        },
+        {
+            "marca":"pepsi",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":170,
+            "loc":[23.77112197875977,-82.42804718017578],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto133.jpg",
+            "pais":"Estados Unidos"
+        },
+        {
+            "marca":"unicola",
+            "sabor":"cola",
+            "envase":"pomo",
+            "precio":170,
+            "loc":[23.77112197875977,-82.42804718017578],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto133.jpg",
+            "pais":"Panama"
+        },
+        {
+            "marca":"ciego montero",
+            "sabor":"cola",
+            "envase":"pomo",
+            "precio":400,
+            "loc":[23.77112197875977,-82.42804718017578],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto133.jpg",
+            "pais":"Cuba"
+        },
+        {
+            "marca":"frised",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.089881896972656,-82.42431640625],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto140.jpg",
+            "pais":"Alemania"
+        },
+        {
+            "marca":"frised",
+            "sabor":"naranja",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.089881896972656,-82.42431640625],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto140.jpg",
+            "pais":"Alemania"
+        },
+        {
+            "marca":"frised",
+            "sabor":"limon",
+            "envase":"lata",
+            "precio":150,
+            "loc":[23.089881896972656,-82.42431640625],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto140.jpg",
+            "pais":"Alemania"
+        },
+        {
+            "marca":"santa",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":130,
+            "loc":[23.09353256225586,-82.42330169677734],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto143.jpg",
+            "pais":"Espana"
+        },
+        {
+            "marca":"santa",
+            "sabor":"naranja",
+            "envase":"lata",
+            "precio":130,
+            "loc":[23.09353256225586,-82.42330169677734],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto143.jpg",
+            "pais":"Espana"
+        },
+        {
+            "marca":"pepsi",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":200,
+            "loc":[23.079747 , -82.434144],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto144.jpg",
+            "pais":"Estados Unidos"
+        },
+        {
+            "marca":"santa",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":200,
+            "loc":[23.079747 , -82.434144],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto144.jpg",
+            "pais":"Espana"
+        },
+        {
+            "marca":"santa",
+            "sabor":"naranja",
+            "envase":"lata",
+            "precio":200,
+            "loc":[23.079747 , -82.434144],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto144.jpg",
+            "pais":"Espana"
+        },
+        {
+            "marca":"santa",
+            "sabor":"limon",
+            "envase":"lata",
+            "precio":200,
+            "loc":[23.079747 , -82.434144],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto144.jpg",
+            "pais":"Espana"
+        },
+        {
+            "marca":"coca cola",
+            "sabor":"cola",
+            "envase":"lata",
+            "precio":160,
+            "loc":[23.079747 , -82.434144],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto145.jpg",
+            "pais":"Estados Unidos"
+        },
+        {
+            "marca":"fanta",
+            "sabor":"naranja",
+            "envase":"lata",
+            "precio":160,
+            "loc":[23.079747 , -82.434144],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto145.jpg",
+            "pais":"Itilia"
+        },
+        {
+            "marca":"fanta",
+            "sabor":"naranja",
+            "envase":"pomo",
+            "precio":130,
+            "loc":[23.079747 , -82.434144],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto145.jpg",
+            "pais":"Itilia"
+        },
+        {
+            "marca":"sprite",
+            "sabor":"limon",
+            "envase":"pomo",
+            "precio":130,
+            "loc":[23.079747 , -82.434144],
+            "municipio":"Marianao",
+            "imagenes":"./fotos/foto145.jpg",
+            "pais":"Estados Unidos"
+        }
+        
+    ],
+    "falta_disponibilidad"  :[
+        
+        {
+            "imagenes":"./fotos/foto57.jpg",
+            "loc":[23.078763,-82.436219]
+        },
+        {
+            "imagenes":"./fotos/foto58.jpg",
+            "loc":[23.078447,-82.437573]
+        },
+        {
+            "imagenes":"./fotos/foto63.jpg",
+            "loc":[23.083260,-82.439342]
+        },
+        {
+            "imagenes":"./fotos/foto78.jpg",
+            "loc":[23.078043,-82.431292]
+        },
+        {
+            "imagenes":"./fotos/foto83.jpg",
+            "loc":[23.074301,-82.431458]
+        },
+        {
+            "imagenes":"./fotos/foto98.jpg",
+            "loc":[23.072008,-82.432222]
+        },
+        {
+            "imagenes":"./fotos/foto103.jpg",
+            "loc":[23.071569,-82.434350]
+        },
+        {
+            "imagenes":"./fotos/foto108.jpg",
+            "loc":[23.074305,-82.437137]
+        },
+        {
+            "imagenes":"./fotos/foto120.jpg",
+            "loc":[23.075504,-82.425833]
+        },
+        {
+            "imagenes":"./fotos/foto124.jpg",
+            "loc":[23.075809,-82.425857]
+        },
+        {
+            "imagenes":"./fotos/foto127.jpg",
+            "loc":[23.076858,-82.426446]
+        },
+        {
+            "imagenes":"./fotos/foto130.jpg",
+            "loc":[23.077696,-82.427973]
+        },
+        {
+            "imagenes":"./fotos/foto139.jpg",
+            "loc":[23.086352,-82.426371]
+        }
+        
+    ]
+
+}
