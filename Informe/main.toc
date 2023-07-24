@@ -1,0 +1,21 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Introducción}{1}{}%
+\contentsline {section}{\numberline {2}Códigos de Importación y Bibliotecas}{1}{}%
+\contentsline {section}{\numberline {3}Recolección y Recopilación de Datos}{2}{}%
+\contentsline {section}{\numberline {4}Análisis de los Datos}{2}{}%
+\contentsline {section}{\numberline {5}Cerveza}{2}{}%
+\contentsline {subsection}{\numberline {5.1}Oscuras y Claras}{4}{}%
+\contentsline {subsection}{\numberline {5.2}Cervezas Únicas}{5}{}%
+\contentsline {subsection}{\numberline {5.3}Ubicaciones}{6}{}%
+\contentsline {section}{\numberline {6}Cebolla}{6}{}%
+\contentsline {subsection}{\numberline {6.1}Disponibilidad en el mercado}{6}{}%
+\contentsline {subsection}{\numberline {6.2}Variedad}{7}{}%
+\contentsline {subsection}{\numberline {6.3}Anomalías en el Precio}{8}{}%
+\contentsline {section}{\numberline {7}Refresco Instantáneo}{8}{}%
+\contentsline {subsection}{\numberline {7.1}Zuko}{8}{}%
+\contentsline {subsection}{\numberline {7.2}Disponibilidad del Zuko en Cuba}{8}{}%
+\contentsline {subsection}{\numberline {7.3}Localidades}{9}{}%
+\contentsline {section}{\numberline {8}Refresco Gaseado}{9}{}%
+\contentsline {subsection}{\numberline {8.1}Variedad del precio conforme al Envase}{10}{}%
+\contentsline {subsection}{\numberline {8.2}Precios, Marcas y sobre todo Sabor}{11}{}%
+\contentsline {section}{\numberline {9}Conclusiones}{11}{}%
