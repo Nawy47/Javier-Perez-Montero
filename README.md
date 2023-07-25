@@ -1,6 +1,7 @@
-# Javier Perez Montero
- Primer Proyecto de Ciencia de Datos
- Facultad de Matemática y Computación
+# Proyecto de Ciencia de Datos
+Primer Proyecto de Ciencia de Datos
+nombre: Javier Pérez Montero
+Facultad de Matemática y Computación
  
  Como primer proyecto tenemos como tema el análisis de productos de comercio en Cuba.
  Presentado en varias visulizaciones para describir el contenido de la Base de Datos utilizada en dicho proyecto.
